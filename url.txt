@@ -1,0 +1,8 @@
+DRIVE MODEL :
+https://drive.google.com/drive/folders/1bAcgmxms9a8YZtVU8yoNzZvx13oDVtZ8?usp=share_link
+
+DATASET :
+https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition
+
+Hugging Face (GAGAL)
+https://huggingface.co/spaces/AfifAlvan/cats-vs-dogs
